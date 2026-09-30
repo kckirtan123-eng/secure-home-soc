@@ -1,0 +1,17 @@
+# Local evidence and sensitive system material
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.log
+*.bak
+*.sql
+*.db
+private/
+raw-evidence/
+unredacted/
+backups/
+screenshots/raw/
+.DS_Store
